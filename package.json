@@ -1,0 +1,15 @@
+{
+  "name": "foodme",
+  "version": "1.0.0",
+  "description": "A webapp to recommend recipes and more ...",
+  "main": "server.js",
+  "repository": {
+    "url": "git@github.com:FoodMe-Project/foodme.git",
+    "type": "git"
+  },
+  "author": "charlesjamb <charles.jambon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
